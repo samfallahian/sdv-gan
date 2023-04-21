@@ -1,0 +1,17 @@
+datgan
+https://github.com/glederrey/DATGAN
+https://pypi.org/project/datgan/
+
+ctabgan
+https://github.com/Team-TUD/CTAB-GAN
+
+
+
+ctgan:
+constraint:
+https://docs.sdv.dev/sdv/single-table-data/modeling/synthetic-data-workflow/constraints
+
+
+Sampling:
+https://docs.sdv.dev/sdv/single-table-data/sampling
+
