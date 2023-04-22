@@ -1,0 +1,3 @@
+pip install chardet
+pip3 install --upgrade protobuf==3.20.0
+pip install charset-normalizer==2.1.0
